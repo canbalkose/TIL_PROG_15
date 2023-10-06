@@ -1,0 +1,201 @@
+Year,Region,Mode of Transport,Total Distance (billion km)
+2018,Extremely urbanized,Combined,46.80
+2019,Extremely urbanized,Combined,46.20
+2020,Extremely urbanized,Combined,31.40
+2021,Extremely urbanized,Combined,36.30
+2022,Extremely urbanized,Combined,40.90
+2018,Extremely urbanized,Passenger car (driver),19.10
+2019,Extremely urbanized,Passenger car (driver),18.50
+2020,Extremely urbanized,Passenger car (driver),13.80
+2021,Extremely urbanized,Passenger car (driver),15.20
+2022,Extremely urbanized,Passenger car (driver),17.10
+2018,Extremely urbanized,Passenger car (passenger),7.40
+2019,Extremely urbanized,Passenger car (passenger),6.80
+2020,Extremely urbanized,Passenger car (passenger),5.40
+2021,Extremely urbanized,Passenger car (passenger),6.50
+2022,Extremely urbanized,Passenger car (passenger),7.10
+2018,Extremely urbanized,Train,8.80
+2019,Extremely urbanized,Train,9.40
+2020,Extremely urbanized,Train,3.50
+2021,Extremely urbanized,Train,4.50
+2022,Extremely urbanized,Train,5.80
+2018,Extremely urbanized,Bus/tram/metro,2.60
+2019,Extremely urbanized,Bus/tram/metro,2.50
+2020,Extremely urbanized,Bus/tram/metro,1.20
+2021,Extremely urbanized,Bus/tram/metro,1.40
+2022,Extremely urbanized,Bus/tram/metro,1.90
+2018,Extremely urbanized,Bike,4.60
+2019,Extremely urbanized,Bike,4.50
+2020,Extremely urbanized,Bike,3.90
+2021,Extremely urbanized,Bike,4.00
+2022,Extremely urbanized,Bike,4.70
+2018,Extremely urbanized,Walking,1.50
+2019,Extremely urbanized,Walking,1.50
+2020,Extremely urbanized,Walking,1.80
+2021,Extremely urbanized,Walking,2.40
+2022,Extremely urbanized,Walking,2.10
+2018,Extremely urbanized,Other,2.70
+2019,Extremely urbanized,Other,2.90
+2020,Extremely urbanized,Other,1.80
+2021,Extremely urbanized,Other,2.30
+2022,Extremely urbanized,Other,2.20
+2018,Strongly urbanized,Combined,66.10
+2019,Strongly urbanized,Combined,66.60
+2020,Strongly urbanized,Combined,46.10
+2021,Strongly urbanized,Combined,50.80
+2022,Strongly urbanized,Combined,56.30
+2018,Strongly urbanized,Passenger car (driver),33.90
+2019,Strongly urbanized,Passenger car (driver),33.00
+2020,Strongly urbanized,Passenger car (driver),24.30
+2021,Strongly urbanized,Passenger car (driver),26.00
+2022,Strongly urbanized,Passenger car (driver),27.70
+2018,Strongly urbanized,Passenger car (passenger),11.50
+2019,Strongly urbanized,Passenger car (passenger),12.10
+2020,Strongly urbanized,Passenger car (passenger),7.70
+2021,Strongly urbanized,Passenger car (passenger),9.60
+2022,Strongly urbanized,Passenger car (passenger),9.70
+2018,Strongly urbanized,Train,7.00
+2019,Strongly urbanized,Train,8.00
+2020,Strongly urbanized,Train,3.40
+2021,Strongly urbanized,Train,3.10
+2022,Strongly urbanized,Train,5.30
+2018,Strongly urbanized,Bus/tram/metro,1.70
+2019,Strongly urbanized,Bus/tram/metro,1.80
+2020,Strongly urbanized,Bus/tram/metro,0.80
+2021,Strongly urbanized,Bus/tram/metro,0.90
+2022,Strongly urbanized,Bus/tram/metro,1.30
+2018,Strongly urbanized,Bike,5.60
+2019,Strongly urbanized,Bike,5.30
+2020,Strongly urbanized,Bike,4.40
+2021,Strongly urbanized,Bike,4.60
+2022,Strongly urbanized,Bike,5.20
+2018,Strongly urbanized,Walking,1.60
+2019,Strongly urbanized,Walking,1.60
+2020,Strongly urbanized,Walking,2.10
+2021,Strongly urbanized,Walking,2.40
+2022,Strongly urbanized,Walking,2.20
+2018,Strongly urbanized,Other,4.60
+2019,Strongly urbanized,Other,4.90
+2020,Strongly urbanized,Other,3.50
+2021,Strongly urbanized,Other,4.20
+2022,Strongly urbanized,Other,4.90
+2018,Moderately urbanized,Combined,34.70
+2019,Moderately urbanized,Combined,35.60
+2020,Moderately urbanized,Combined,24.60
+2021,Moderately urbanized,Combined,25.60
+2022,Moderately urbanized,Combined,30.90
+2018,Moderately urbanized,Passenger car (driver),17.80
+2019,Moderately urbanized,Passenger car (driver),18.60
+2020,Moderately urbanized,Passenger car (driver),13.20
+2021,Moderately urbanized,Passenger car (driver),13.70
+2022,Moderately urbanized,Passenger car (driver),15.90
+2018,Moderately urbanized,Passenger car (passenger),6.20
+2019,Moderately urbanized,Passenger car (passenger),6.60
+2020,Moderately urbanized,Passenger car (passenger),4.50
+2021,Moderately urbanized,Passenger car (passenger),4.90
+2022,Moderately urbanized,Passenger car (passenger),5.50
+2018,Moderately urbanized,Train,3.20
+2019,Moderately urbanized,Train,2.90
+2020,Moderately urbanized,Train,1.10
+2021,Moderately urbanized,Train,1.00
+2022,Moderately urbanized,Train,1.90
+2018,Moderately urbanized,Bus/tram/metro,0.70
+2019,Moderately urbanized,Bus/tram/metro,0.70
+2020,Moderately urbanized,Bus/tram/metro,0.40
+2021,Moderately urbanized,Bus/tram/metro,0.20
+2022,Moderately urbanized,Bus/tram/metro,0.60
+2018,Moderately urbanized,Bike,2.90
+2019,Moderately urbanized,Bike,2.90
+2020,Moderately urbanized,Bike,2.50
+2021,Moderately urbanized,Bike,2.50
+2022,Moderately urbanized,Bike,3.10
+2018,Moderately urbanized,Walking,0.80
+2019,Moderately urbanized,Walking,0.80
+2020,Moderately urbanized,Walking,1.00
+2021,Moderately urbanized,Walking,1.10
+2022,Moderately urbanized,Walking,1.10
+2018,Moderately urbanized,Other,2.90
+2019,Moderately urbanized,Other,3.10
+2020,Moderately urbanized,Other,2.00
+2021,Moderately urbanized,Other,2.20
+2022,Moderately urbanized,Other,2.80
+2018,Hardly urbanized,Combined,51.90
+2019,Hardly urbanized,Combined,50.60
+2020,Hardly urbanized,Combined,35.70
+2021,Hardly urbanized,Combined,40.70
+2022,Hardly urbanized,Combined,44.30
+2018,Hardly urbanized,Passenger car (driver),27.70
+2019,Hardly urbanized,Passenger car (driver),27.20
+2020,Hardly urbanized,Passenger car (driver),19.90
+2021,Hardly urbanized,Passenger car (driver),22.00
+2022,Hardly urbanized,Passenger car (driver),24.00
+2018,Hardly urbanized,Passenger car (passenger),10.10
+2019,Hardly urbanized,Passenger car (passenger),9.80
+2020,Hardly urbanized,Passenger car (passenger),5.90
+2021,Hardly urbanized,Passenger car (passenger),6.90
+2022,Hardly urbanized,Passenger car (passenger),8.10
+2018,Hardly urbanized,Train,2.80
+2019,Hardly urbanized,Train,2.80
+2020,Hardly urbanized,Train,1.20
+2021,Hardly urbanized,Train,1.30
+2022,Hardly urbanized,Train,2.10
+2018,Hardly urbanized,Bus/tram/metro,1.00
+2019,Hardly urbanized,Bus/tram/metro,1.00
+2020,Hardly urbanized,Bus/tram/metro,0.40
+2021,Hardly urbanized,Bus/tram/metro,0.80
+2022,Hardly urbanized,Bus/tram/metro,0.90
+2018,Hardly urbanized,Bike,3.90
+2019,Hardly urbanized,Bike,3.80
+2020,Hardly urbanized,Bike,3.60
+2021,Hardly urbanized,Bike,3.60
+2022,Hardly urbanized,Bike,4.10
+2018,Hardly urbanized,Walking,1.00
+2019,Hardly urbanized,Walking,1.00
+2020,Hardly urbanized,Walking,1.30
+2021,Hardly urbanized,Walking,1.70
+2022,Hardly urbanized,Walking,1.40
+2018,Hardly urbanized,Other,5.30
+2019,Hardly urbanized,Other,5.00
+2020,Hardly urbanized,Other,3.40
+2021,Hardly urbanized,Other,4.50
+2022,Hardly urbanized,Other,3.80
+2018,Not urbanized,Combined,18.70
+2019,Not urbanized,Combined,20.00
+2020,Not urbanized,Combined,14.20
+2021,Not urbanized,Combined,14.90
+2022,Not urbanized,Combined,14.60
+2018,Not urbanized,Passenger car (driver),10.20
+2019,Not urbanized,Passenger car (driver),11.20
+2020,Not urbanized,Passenger car (driver),8.10
+2021,Not urbanized,Passenger car (driver),8.70
+2022,Not urbanized,Passenger car (driver),8.20
+2018,Not urbanized,Passenger car (passenger),3.40
+2019,Not urbanized,Passenger car (passenger),3.70
+2020,Not urbanized,Passenger car (passenger),2.30
+2021,Not urbanized,Passenger car (passenger),2.30
+2022,Not urbanized,Passenger car (passenger),2.30
+2018,Not urbanized,Train,0.90
+2019,Not urbanized,Train,1.00
+2020,Not urbanized,Train,0.00
+2021,Not urbanized,Train,0.00
+2022,Not urbanized,Train,0.70
+2018,Not urbanized,Bus/tram/metro,0.40
+2019,Not urbanized,Bus/tram/metro,0.40
+2020,Not urbanized,Bus/tram/metro,0.20
+2021,Not urbanized,Bus/tram/metro,0.20
+2022,Not urbanized,Bus/tram/metro,0.40
+2018,Not urbanized,Bike,1.40
+2019,Not urbanized,Bike,1.30
+2020,Not urbanized,Bike,1.20
+2021,Not urbanized,Bike,1.30
+2022,Not urbanized,Bike,1.30
+2018,Not urbanized,Walking,0.30
+2019,Not urbanized,Walking,0.30
+2020,Not urbanized,Walking,0.50
+2021,Not urbanized,Walking,0.60
+2022,Not urbanized,Walking,0.40
+2018,Not urbanized,Other,2.00
+2019,Not urbanized,Other,2.10
+2020,Not urbanized,Other,1.50
+2021,Not urbanized,Other,1.40
+2022,Not urbanized,Other,1.30
